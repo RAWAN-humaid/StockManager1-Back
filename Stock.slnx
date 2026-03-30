@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StocK.API/StocK.API.csproj" />
+  <Project Path="Stock.Data/Stock.Data.csproj" Id="cec10831-701b-4485-9dbd-7d2d44ae5c6e" />
+  <Project Path="Stock.Server/Stock.Server.csproj" Id="1d0240c6-16d7-4d9f-9336-61de98fd9dfc" />
+</Solution>
